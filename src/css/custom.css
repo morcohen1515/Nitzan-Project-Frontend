@@ -1,0 +1,37 @@
+figcaption {
+  position: absolute;
+  bottom: 2rem;
+  margin: 0 1.5rem;
+  font-size: 0.6em;
+}
+
+/* .NewEmployeeForm {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.inputnewemployee {
+  padding: 10px;
+  width: 300px;
+  max-width: 90%;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.btnnewemployee {
+  margin-top: 1rem;
+  padding: 10px 40px;
+  background: #000;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+}
+
+.messages {
+  color: rgb(172, 50, 50);
+  font-size: 16px;
+} */
